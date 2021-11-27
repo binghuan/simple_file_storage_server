@@ -42,7 +42,7 @@ cd backend;
 ```
 ![](./demo_testcases.png)
 
-## Demo 
+## Demo on WebSite
 ![](./demo_20211127.gif)
 
 ## How to Use CLI for Testing. 
@@ -60,9 +60,9 @@ curl --location --request GET 'http://localhost:8080/files'
 ```
 - Command to delete files on server 
 ```shell
-curl --location --request DELETE 'http://localhost:8080/mylogo.png'
+curl --location --request DELETE 'http://localhost:8080/files/mylogo.png'
 ```
-
-
+## Demo on CLI
+![](./demo_cli.gif)
 
 
