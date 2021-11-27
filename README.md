@@ -1,5 +1,5 @@
 ![](./frontend/images/icon-256.jpg)  
-gomobile-bind-example
+Simple File Storage Server
 ================================================
 
 This is a simple file storage server.   
