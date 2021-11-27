@@ -35,6 +35,9 @@ Once you have uploaded a file (ex: mylogo.png),
 you can see there will be a file on the list. 
 ![](./webpage_list.png)
 
+## Control flow for web app
+![](./control_flow_for_web_app.png)
+
 ## How to run test cases
 ```shell
 cd backend; 
