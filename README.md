@@ -35,6 +35,13 @@ Once you have uploaded a file (ex: mylogo.png),
 you can see there will be a file on the list. 
 ![](./webpage_list.png)
 
+## How to run test cases
+```shell
+cd backend; 
+ go test -v ./
+```
+![](./demo_testcases.png)
+
 ## Demo 
 ![](./demo_20211127.gif)
 
