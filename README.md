@@ -12,14 +12,14 @@ If you want to build and run the server locally, here is the user guide.
 Download and install  
 <https://go.dev/doc/install>  
 
-### Start Backend Server
+### Start Back-End Server
 Start the go server and listen the port 8080
 ```shell
 cd backend;
 go run main.go
 ```
 
-## On FrontEnd Side
+## On Front-End Side
 ### Start Web Server to interact with server 
 You can use your favorite http-server.
 (in this case, I use this https://formulae.brew.sh/formula/http-server)
