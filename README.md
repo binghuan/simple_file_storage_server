@@ -19,6 +19,9 @@ cd backend;
 go run main.go
 ```
 
+Here is the APIs provided by Server 
+![](./APIs.png)
+
 ## On FrontEnd Side
 ### Start Web Server to interact with server 
 You can use your favorite http-server.
