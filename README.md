@@ -44,7 +44,7 @@ you can see there will be a file on the list.
 ## How to run test cases
 ```shell
 cd backend; 
- go test -v ./
+go test -v ./
 ```
 ![](./demo_testcases.png)
 
