@@ -71,4 +71,12 @@ curl --location --request DELETE 'http://localhost:8080/files/mylogo.png'
 ## Demo on CLI
 ![](./demo_cli.gif)
 
+## Use Docker to start the server
+Input following command in the root folder.
+the visit the website "http://localhost:8081"
+```shell
+docker-compose up -d
+```
+![](./demo_docker-compose.gif)
+
 

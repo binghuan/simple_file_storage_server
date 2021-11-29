@@ -1,0 +1,11 @@
+version: '3' # 目前使用的版本，可以參考官網：
+services:
+  # services 關鍵字後面列出 web, redis 兩項專案中的服務
+  web:
+    build: ./frontend # Build 在同一資料夾的 Dockerfile（描述 Image 要組成的 yaml 檔案）成 container
+    ports:
+      - "8081:8000" # 外部露出開放的 port 對應到 docker container 的 port
+  server:
+    build: ./backend # Build 在同一資料夾的 Dockerfile（描述 Image 要組成的 yaml 檔案）成 container
+    ports:
+      - "8080:8080" # 外部露出開放的 port 對應到 docker container 的 port
