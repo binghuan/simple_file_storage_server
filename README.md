@@ -7,6 +7,22 @@ User can upload file,  delete file and list file on the server.
 
 If you want to build and run the server locally, here is the user guide. 
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+- [Simple File Storage Server](#simple-file-storage-server)
+  - [On Server Side](#on-server-side)
+    - [Prepare your Go Environment](#prepare-your-go-environment)
+    - [Start Back-End Server](#start-back-end-server)
+  - [On Front-End Side](#on-front-end-side)
+    - [Start Web Server to interact with server](#start-web-server-to-interact-with-server)
+  - [Control flow for web app](#control-flow-for-web-app)
+  - [How to run test cases](#how-to-run-test-cases)
+  - [Demo on WebSite](#demo-on-website)
+  - [How to Use CLI for Testing.](#how-to-use-cli-for-testing)
+  - [Demo on CLI](#demo-on-cli)
+  - [Use Docker to start the server](#use-docker-to-start-the-server)
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## On Server Side
 ### Prepare your Go Environment
 Download and install  
