@@ -7,9 +7,11 @@ User can upload file,  delete file and list file on the server.
 
 If you want to build and run the server locally, here is the user guide. 
 
+## Table of Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 - [Simple File Storage Server](#simple-file-storage-server)
+  - [Table of Contents](#table-of-contents)
   - [On Server Side](#on-server-side)
     - [Prepare your Go Environment](#prepare-your-go-environment)
     - [Start Back-End Server](#start-back-end-server)
